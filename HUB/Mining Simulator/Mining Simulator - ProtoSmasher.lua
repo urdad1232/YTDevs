@@ -430,4 +430,5 @@ end
 Init()
 GetMaps()
 GetNetwork()
-Chat("Made by: Jeff Senpai SenAmigos#0829", true)
+Chat("Made by: Jeff Senpai SenAmigos#6768", true)
+Chat("Discord: discord.gg/z4xBAwu", true)
